@@ -19,3 +19,5 @@ else:
 	
 print("Average cost of fuel for 1km:", A)
 print(" 'Have a wounderful Journey' ")
+
+#Nice Project
